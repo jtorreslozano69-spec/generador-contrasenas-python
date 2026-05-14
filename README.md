@@ -19,8 +19,8 @@ Si es la primera vez que lo usas, sigue estos pasos en tu terminal para evitar e
 1. **Clonar el proyecto:**
    git clone [https://github.com/jtorreslozano69-spec/generador-contrasenas-python](https://github.com/jtorreslozano69-spec/generador-contrasenas-python)
    
-3. **Como instalar la libreria**
+3. **Como instalar la libreria:**
    pip install werkzeug
    
-4. **Ejecutar el generador**
+4. **Ejecutar el generador:**
    python generador-contraseña.py
