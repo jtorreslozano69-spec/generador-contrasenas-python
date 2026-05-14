@@ -17,10 +17,13 @@ Este proyecto es una herramienta de seguridad desarrollada en Python. No solo ge
 Si es la primera vez que lo usas, sigue estos pasos en tu terminal para evitar el error de "ModuleNotFoundError":
 
 1. **Clonar el proyecto:**
+   ```bash
    git clone [https://github.com/jtorreslozano69-spec/generador-contrasenas-python](https://github.com/jtorreslozano69-spec/generador-contrasenas-python)
    
-3. **Como instalar la libreria:**
+2. **Como instalar la libreria:**
+   ```bash
    pip install werkzeug
    
 4. **Ejecutar el generador:**
+   ```bash
    python generador-contraseña.py
