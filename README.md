@@ -27,3 +27,6 @@ Si es la primera vez que lo usas, sigue estos pasos en tu terminal para evitar e
 4. **Ejecutar el generador:**
    ```bash
    python generador-contraseña.py
+   
+5. o presionar este boton
+   <img width="139" height="126" alt="image" src="https://github.com/user-attachments/assets/9700b8b8-2243-47f7-b3ef-cb3e3f7a49c2" />
