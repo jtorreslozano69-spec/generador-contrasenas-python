@@ -14,6 +14,7 @@ longitud=12
 #generamos 10 contraseñas (range) aleatorias y las mostramos junto con su versión oculta
 for i in range(10):
 
+#en esta parte hace que se muestre en formato "contraseña → contraseña oculta"
  muestra=random.sample(base,longitud)
  password="".join(muestra)
  password_oculto=generate_password_hash(password)
